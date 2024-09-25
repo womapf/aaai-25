@@ -2,8 +2,6 @@
 layout: default
 ---
 
-To be held as part of the 39th AAAI Conference on Artificial Intelligence (AAAI) 2025, Philadelphia, Pennsylvania, USA
-
 _This site is under construction._
 
 
