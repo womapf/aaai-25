@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 title: The 6th International Workshop on Multi-Agent Path Finding
-description: part of the 39th AAAI Conference on Artificial Intelligence (AAAI) 2025, Philadelphia, Pennsylvania, USA
-github:
-  is_project_page: false
+date: March 3, 2025
+location: Philadelphia, Pennsylvania, USA
+description: part of the 39th AAAI Conference on Artificial Intelligence (AAAI) 2025
+submission_site:
+  show: true
+  url: https://cmt3.research.microsoft.com/WoMAPF2025/Submission/Index
