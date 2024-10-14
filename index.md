@@ -32,6 +32,8 @@ The workshop is a One-Day workshop including:
 
 The industry panel, newly introduced, aims to foster stronger connections and bridge the gap between industry and the MAPF research community.
 
+Please note that AAAI requires all presentations to be delivered in person and virtual attendance is permitted for general participation only.
+
 ## Industry Panel
 
 We've confirmed the participation from Amazon Robotics and Symbotic – both are leading companies in robotics and warehouse automation. We're also reaching out to other companies who are applying automation in diverse and innovative ways to further enrich the discussions.
