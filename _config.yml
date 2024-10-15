@@ -6,3 +6,5 @@ description: part of the 39th AAAI Conference on Artificial Intelligence (AAAI) 
 submission_site:
   show: true
   url: https://cmt3.research.microsoft.com/WoMAPF2025/Submission/Index
+plugins:
+  - jekyll-sitemap
