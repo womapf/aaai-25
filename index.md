@@ -46,6 +46,9 @@ Submissions can contain relevant work in all possible stages, including work tha
 - Format: Any format is acceptable.
 - Page limitation: There is no limit on the number of pages.
 
+All submissions will receive at least 2 light reviews.
+The review process will be __single-blind__.
+
 
 ## Submission Site
 
