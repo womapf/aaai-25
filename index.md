@@ -6,6 +6,7 @@ Multi-Agent Path Finding (MAPF) involves computing collision-free paths for mult
 
 ## News
 
+- Nov. 25, 2024: Submission is closed. Paper notification will be slightly extended (Dec. 12).
 - Oct. 12, 2024: The submission site is now open.
 
 ---
@@ -60,7 +61,7 @@ The review process will be __single-blind__.
 Note: all deadlines are “anywhere on earth” (UTC-12)
 
 - Paper submission deadline: November 24, 2024
-- Paper notification: December 9, 2024
+- Paper notification: ~~December 9, 2024~~ => December 12, 2024
 - Final version: Jan 9, 2025
 - Workshop: March 3, 2025
 
