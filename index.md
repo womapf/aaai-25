@@ -4,8 +4,12 @@ layout: default
 
 Multi-Agent Path Finding (MAPF) involves computing collision-free paths for multiple agents from their starting locations to given destinations in a known environment. This problem finds diverse applications, from robot coordination to traffic management. Researchers in artificial intelligence, robotics, and theoretical computer science have been actively exploring various MAPF problem variants and solution approaches. This workshop aims to bring these researchers together to present their research, discuss future research directions, and cross-fertilize the different communities.
 
+WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/).
+
 ## News
 
+- __We are planning to have student travel grants. Stay tuned.__
+- Dec. 13, 2024. Paper notification has sent out.
 - Nov. 25, 2024: Submission is closed. Paper notification will be slightly extended (Dec. 12).
 - Oct. 12, 2024: The submission site is now open.
 
@@ -87,3 +91,8 @@ Stay tuned for more exciting speaker announcements!
 - [Daniel Harabor](https://harabor.net/daniel/), Monash University
 - [Peter Stuckey](https://research.monash.edu/en/persons/peter-stuckey), Monash University
 - [Sven Koenig](https://idm-lab.org/), University of California, Irvine
+
+## WoMAPF 2025 is kindly supported by:
+
+<a href="https://www.symbotic.com"><img src="./images/SymboticLogo.jpg" width="300"/></a>
+
