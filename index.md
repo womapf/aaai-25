@@ -17,7 +17,7 @@ WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/).
 
 ## Call for Student Travel Grants
 
-Thanks to the generous support of our sponsors Symbotic and SoCS, we are pleased to announce the WoMAPF Student Travel Grants.
+Thanks to the generous support of our sponsor Symbotic, we are pleased to announce the WoMAPF Student Travel Grants.
 Winners will receive a fixed amount of travel support, which is expected to be around 1,000 USD.
 The exact amount will depend on the number of other applicants.
 
