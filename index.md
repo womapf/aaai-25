@@ -15,33 +15,17 @@ WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/).
 
 ---
 
-## Call for Student Travel Grants
+## Important Dates
 
-Thanks to the generous support of our sponsor Symbotic, we are pleased to announce the WoMAPF Student Travel Grants.
-Winners will receive a fixed amount of travel support, which is expected to be around 1,000 USD.
-The exact amount will depend on the number of other applicants.
+Note: all deadlines are “anywhere on earth” (UTC-12)
 
-To be eligible, an applicant must be either:
-- a student presenting their work at the MAPF workshop,
-- a student presenting a relevant paper at the main conference who also plans to attend WoMAPF, or
-- a student who does not have a presentation this time, but is very keen to contribute to MAPF studies.
-
-The organizing committee will select several winners based on:
-- the applicant's CV,
-- a student certificate such as a copy of a student ID card, and
-- a one-page PDF description of your contribution to MAPF, not limited to this workshop, and why you need financial support such as travel costs.
-
-Additionally, it would be helpful if you could indicate the amount of other funding you have already received. Priority will be given to students who are actively involved in MAPF, taking into account their place of residence.
-
-Please submit your application via the following page.
-
-[https://forms.gle/13BXVT2fA7tCEaBY6](https://forms.gle/13BXVT2fA7tCEaBY6)
-
-The deadline for applications is __13 January 2025, UTC-12__. Notification is expected within that week.
-Instructions for the transfer process will be provided after notification.
-We plan to transfer the grants after the workshop day.
-
-We are looking forward to your applications!
+- Student travel grants application: January 13, 2025
+- Final version submission: January 13, 2025
+- Paper submission deadline: November 24, 2024
+- Paper notification: ~~December 9, 2024~~ => December 12, 2024
+- Final version: January 9, 2025
+- Student travel grants application: January 13, 2025
+- Workshop: March 3, 2025
 
 
 ## Topics
@@ -88,18 +72,33 @@ The review process will be __single-blind__.
 
 [https://cmt3.research.microsoft.com/WoMAPF2025/Submission/Index](https://cmt3.research.microsoft.com/WoMAPF2025/Submission/Index)
 
+## Call for Student Travel Grants (Closed)
 
-## Important Dates
+Thanks to the generous support of our sponsor Symbotic, we are pleased to announce the WoMAPF Student Travel Grants.
+Winners will receive a fixed amount of travel support, which is expected to be around 1,000 USD.
+The exact amount will depend on the number of other applicants.
 
-Note: all deadlines are “anywhere on earth” (UTC-12)
+To be eligible, an applicant must be either:
+- a student presenting their work at the MAPF workshop,
+- a student presenting a relevant paper at the main conference who also plans to attend WoMAPF, or
+- a student who does not have a presentation this time, but is very keen to contribute to MAPF studies.
 
-- Student travel grants application: January 13, 2025
-- Final version submission: January 13, 2025
-- Paper submission deadline: November 24, 2024
-- Paper notification: ~~December 9, 2024~~ => December 12, 2024
-- Final version: January 9, 2025
-- Student travel grants application: January 13, 2025
-- Workshop: March 3, 2025
+The organizing committee will select several winners based on:
+- the applicant's CV,
+- a student certificate such as a copy of a student ID card, and
+- a one-page PDF description of your contribution to MAPF, not limited to this workshop, and why you need financial support such as travel costs.
+
+Additionally, it would be helpful if you could indicate the amount of other funding you have already received. Priority will be given to students who are actively involved in MAPF, taking into account their place of residence.
+
+Please submit your application via the following page.
+
+[https://forms.gle/13BXVT2fA7tCEaBY6](https://forms.gle/13BXVT2fA7tCEaBY6)
+
+The deadline for applications is __13 January 2025, UTC-12__. Notification is expected within that week.
+Instructions for the transfer process will be provided after notification.
+We plan to transfer the grants after the workshop day.
+
+We are looking forward to your applications!
 
 
 ## Workshop Committee
