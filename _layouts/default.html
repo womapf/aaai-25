@@ -11,6 +11,13 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+     @media screen and (min-width: 80em) { .main-content { max-width: 80rem; } }
+     table { font-size: 80%; }
+     table tr:nth-child(odd) td { background: #EEE; }
+     table thead tr { background: black; color: white; }
+     table tr:nth-child(20) td { background: black; color: white; }
+    </style>
   </head>
   <body>
     <header class="page-header" role="banner">

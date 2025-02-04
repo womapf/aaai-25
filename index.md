@@ -8,6 +8,7 @@ WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/).
 
 ## News
 
+- Feb. 4, 2025. Workshop schedule is out.
 - Dec. 27, 2024. Call for the WoMAPF student travel grants is out.
 - Dec. 13, 2024. Paper notification has sent out.
 - Nov. 25, 2024: Submission is closed. Paper notification will be slightly extended (Dec. 12).
@@ -52,12 +53,62 @@ The industry panel, newly introduced, aims to foster stronger connections and br
 
 Please note that AAAI requires all presentations to be delivered in person and virtual attendance is permitted for general participation only.
 
+## Workshop Schdule
+
+| Time (EST) | Activities and Presentation Topic | Authors/Presenters |
+|------------|---------------------------------|--------------------|
+| 08:55 | __Opening Remarks__ | |
+| 09:00 | Enhancing Lifelong Multi-Agent Path-finding by Using Artificial Potential Fields | Arseni Pertzovskiy, Roni Stern, Roie Zivan, Ariel Felner |
+|  | Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding | Hongzhi Zang, Yulun Zhang, He Jiang, Zhe Chen, Daniel Harabor, Peter Stuckey, Jiaoyang Li |
+|  | Early Results with LF: Online Multi-Robot Path Planning meets Optimal Trajectory Control | Keisuke Okumura, Ajay Shankar, Amanda Prorok |
+|  | Concurrent Planning and Execution in Lifelong Multi-Agent Path Finding with Delay Probabilities | Yue Zhang, Zhe Chen, Daniel Harabor, Pierre Le Bodic, Peter Stuckey |
+|  | Optimized Solving Anonymous and Combinatorial Multi-Agent Path Finding Problems in Polynomial Time | Stefan Edelkamp |
+| 09:40 | __Break (15 mins)__ | |
+| 09:55 | __Invited Talk (45 minutes)__ | Chuchu Fan |
+| 10:40 | __Tea Break (20 mins)__ | |
+| 11:00 | On the Completeness of Conflict-Based Search: Temporally-Relative Duplicate Pruning | Thayne T. Walker, Nathan R. Sturtevant |
+|  | Goal Distribution in Conflict-Based Search for Multi-Agent Pathfinding and its Implications to Monte-Carlo Sampling | Colton Simpson, Sumedh Pendurkar, Guni Sharon |
+|  | Minimizing Makespan with Conflict-Based Search for Optimal Multi-Agent Path Finding | Amir Maliah, Dor Atzmon, Ariel Felner |
+|  | CBS with Continuous-Time Revisit | Andy Li, Zhe Chen, Daniel Harabor |
+|  | Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search | Jingtian Yan, Jiaoyang Li |
+|  | How Constraints Define Control for Multi-Agent Navigation Robots | Boyang Zhang |
+|  | Measure Preserving Flows for Ergodic Search in Convoluted Environments | Albert Xu, Bhaskar Vundurthy, Geordan Gutow, Ian Abraham, Jeff Schneider, Howie Choset |
+|  | Hierarchical Large Scale Multirobot Path (Re)Planning | Lishuo Pan, Kevin Hsu, Nora Ayanian |
+| 12:10 | __Poster Session with Lunch in Workshop (80 mins)__ | |
+||
+|| Presentations above are assigned to the morning poster session / below to the afternoon |
+||
+| 13:30 | Deep Reinforcement Learning based Truck Dispatcher for Open-pit Mines | Vaibhav Mukundan, Apurva Narayan |
+|  | Multi-Robot Motion Planning with Diffusion Models | Yorai Shaoul, Itamar Mishani, Shivam Vats, Jiaoyang Li, Maxim Likhachev |
+|  | Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models | Jinhao Liang, Jacob Christopher, Sven Koenig, Ferdinando Fioretto |
+|  | Multi-Agent Path Finding for Schedule Constrained Automation | Kareem Eissa, Rayal Prasad, Ankur Kapoor |
+|  | A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps | Cheng Qian, Yulun Zhang, Varun Bhatt, Matthew Fontaine, Stefanos Nikolaidis, Jiaoyang Li |
+| 14:10 | __Break (15 mins)__ | |
+| 14:25 | __Industry Panel Presentations (35 mins)__ | |
+| 16:00 | __Industry Panel Discussion (5 mins prep + 35 mins)__ | |
+| 15:40 | __Tea Break (20 mins)__ | |
+| 16:00 | 100-Mouse System: a Swarm Robotics Platform and its Intuitive State Management User Interface | Ryusei Matsumoto, Shota Yamamoto, Yoko Sasaki, Keisuke Okumura |
+|  | COLREG-CBS: COLREGs-Compliant Search-based Path Planning for Autonomous Surface Vehicles | Kumar Jaiswal, Rahul Kulkarni, Saifullah Khan, Shwitaan Iyer, Sujit P. Baliyarasimhuni |
+|  | Generalized Multi-Agent Multi-Objective Ergodic Search | Bhaskar Vundurthy, Geordan Gutow, Akshaya Kesarimangalam Srinivasan, Albert Xu, Burhanuddin Shirose, Howie Choset |
+|  | Toward Multi-Agent Moving Target Traveling Salesman Problems | Anoop Bhat, Geordan Gutow, Bhaskar Vundurthy, Zhongqiang Ren, Sivakumar Rathinam, Howie Choset |
+|  | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
+| 16:40 | __Community Discussion__ | |
+| 16:50 | __Poster Session with Snacks and Drinks (60 mins)__ | |
+| 17:50 | __Closing__ | |
+
+### Poster Only Presentation
+
+| | Activities and Presentation Topic | Authors/Presenters |
+|------------|---------------------------------|--------------------|
+| All Day Poster Board Usage | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
+
+
 ## Industry Panel
 
 We've confirmed the participation from Amazon Robotics and Symbotic – both are leading companies in robotics and warehouse automation. We're also reaching out to other companies who are applying automation in diverse and innovative ways to further enrich the discussions.
 
 
-## Submission Requirements
+## Submission Requirements (Closed)
 
 Submissions can contain relevant work in all possible stages, including work that was recently published, is under submission elsewhere, was only recently finished, or is still ongoing.
 
@@ -114,14 +165,35 @@ We are looking forward to your applications!
 
 - [Chuchu Fan](https://chuchu.mit.edu/), Massachusetts Institute of Technology
 
-Stay tuned for more exciting speaker announcements!
-
 ## Advisory Board
 
 - [Jiaoyang Li](https://jiaoyangli.me/), Carnegie Mellon University
 - [Daniel Harabor](https://harabor.net/daniel/), Monash University
 - [Peter Stuckey](https://research.monash.edu/en/persons/peter-stuckey), Monash University
 - [Sven Koenig](https://idm-lab.org/), University of California, Irvine
+
+## PC Members
+
+- Ariel Felner, Ben-Gurion University
+- Bojie Shen, Monash University
+- Dor Atzmon, Ben Gurion University
+- Edward Lam, Monash University
+- Guillaume Sartoretti, National University of Singapore
+- Guni Sharon, Texas A&M University
+- Hang Ma, Simon Fraser University
+- Jiaoyang Li, Carnegie Mellon University
+- Jingyao Ren, University of Southern California
+- Jiří Švancara, Charles University
+- Jonathan Morag, Ben-Gurion University of the Negev
+- Kazumi Kasaura, OMRON SINIC X
+- Konstantin Yakovlev, Federal Research Center for Computer Science and Control RAS
+- Nathan Sturtevant, University of Alberta
+- Oren Salzman, Technion
+- Teng Guo, Rutgers
+- Wolfgang Hoenig, TU Berlin
+- Yi Zheng, University of Southern California
+- Yimin Tang, USC
+- Yorai Shaoul, Carnegie Mellon University
 
 ## WoMAPF 2025 is kindly supported by:
 
