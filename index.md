@@ -4,7 +4,7 @@ layout: default
 
 Multi-Agent Path Finding (MAPF) involves computing collision-free paths for multiple agents from their starting locations to given destinations in a known environment. This problem finds diverse applications, from robot coordination to traffic management. Researchers in artificial intelligence, robotics, and theoretical computer science have been actively exploring various MAPF problem variants and solution approaches. This workshop aims to bring these researchers together to present their research, discuss future research directions, and cross-fertilize the different communities.
 
-WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/).
+WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/) and [SoCS](https://www.search-conference.org/).
 
 ## News
 
@@ -60,7 +60,7 @@ Please note that AAAI requires all presentations to be delivered in person and v
 | 08:55 | __Opening Remarks__ | |
 | 09:00 | Enhancing Lifelong Multi-Agent Path-finding by Using Artificial Potential Fields | Arseni Pertzovskiy, Roni Stern, Roie Zivan, Ariel Felner |
 |  | Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding | Hongzhi Zang, Yulun Zhang, He Jiang, Zhe Chen, Daniel Harabor, Peter Stuckey, Jiaoyang Li |
-|  | Early Results with LF: Online Multi-Robot Path Planning meets Optimal Trajectory Control | Keisuke Okumura, Ajay Shankar, Amanda Prorok |
+|  | Early Results with LF: Online Multi-Robot Path Planning meets Optimal Trajectory Control | Ajay Shankar, Keisuke Okumura, Amanda Prorok |
 |  | Concurrent Planning and Execution in Lifelong Multi-Agent Path Finding with Delay Probabilities | Yue Zhang, Zhe Chen, Daniel Harabor, Pierre Le Bodic, Peter Stuckey |
 |  | Optimized Solving Anonymous and Combinatorial Multi-Agent Path Finding Problems in Polynomial Time | Stefan Edelkamp |
 | 09:40 | __Break (15 mins)__ | |
@@ -125,7 +125,7 @@ The review process will be __single-blind__.
 
 ## Call for Student Travel Grants (Closed)
 
-Thanks to the generous support of our sponsor Symbotic, we are pleased to announce the WoMAPF Student Travel Grants.
+Thanks to the generous support of our sponsor Symbotic and SoCS, we are pleased to announce the WoMAPF Student Travel Grants.
 Winners will receive a fixed amount of travel support, which is expected to be around 1,000 USD.
 The exact amount will depend on the number of other applicants.
 
@@ -198,3 +198,7 @@ We are looking forward to your applications!
 ## WoMAPF 2025 is kindly supported by:
 
 <a href="https://www.symbotic.com"><img src="./images/SymboticLogo.jpg" width="300"/></a>
+
+and
+
+[SoCS (International Symposium on Combinatorial Search)](https://www.search-conference.org/)
