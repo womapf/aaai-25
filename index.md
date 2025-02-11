@@ -8,6 +8,7 @@ WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/) and [So
 
 ## News
 
+- Feb. 11, 2025. Update invited talk info.
 - Feb. 4, 2025. Workshop schedule is out.
 - Dec. 27, 2024. Call for the WoMAPF student travel grants is out.
 - Dec. 13, 2024. Paper notification has sent out.
@@ -102,6 +103,17 @@ Please note that AAAI requires all presentations to be delivered in person and v
 |------------|---------------------------------|--------------------|
 | All Day Poster Board Usage | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
 
+## Invited Speaker
+
+Recent Advances in MAPF: Constrained Planning, Temporal Logic, and LLM-Assisted Planning, by [Chuchu Fan](https://chuchu.mit.edu/) (MIT)
+
+<img src="./images/chuchu.jpg" width="200"/>
+
+__Abstract:__
+In this talk, we explore recent advances from my group that tackle complex planning challenges in multi-robot systems. First, we present a hierarchical framework for solving the Constrained Multiple Depot Traveling Salesman Problem (CMDTSP), efficiently incorporating real-world constraints such as battery limits and inter-agent conflicts to improve solution quality and computational efficiency. Next, we discuss a novel approach to multi-agent motion planning under complex temporal constraints using signal temporal logic (STL), where timed waypoints enable task allocation and collision-free motion planning for nonlinear and nonholonomic agents. Finally, we introduce AutoTAMP, a method that leverages large language models (LLMs) as translators and checkers to bridge natural language task descriptions with task-and-motion planning, enabling robots to jointly reason about tasks and motion under intricate environmental and temporal constraints.
+
+__Bio:__ Dr. Chuchu Fan is a pre-tenure associate professor at AeroAstro and LIDS at MIT. Before that, she was a postdoc researcher at Caltech and got her Ph.D. from ECE at the University of Illinois at Urbana-Champaign. Her research group, Realm at MIT, works on using rigorous mathematics, including formal methods, machine learning, and control theory, for the design, analysis, and verification of safe autonomous systems. Chuchu is the recipient of an NSF CAREER Award, an AFOSR Young Investigator Program (YIP) Award, an ONR Young Investigator Program (YIP) Award, and the 2020 ACM Doctoral Dissertation Award.
+
 
 ## Industry Panel
 
@@ -160,10 +172,6 @@ We are looking forward to your applications!
 - [Rishi Veerapaneni](https://rishi-v.github.io/), Carnegie Mellon University (vrishi [at] cmu.edu)
 - Yue Zhang , Monash University (yue.zhang [at] monash.edu)
 
-
-## Invited Speaker
-
-- [Chuchu Fan](https://chuchu.mit.edu/), Massachusetts Institute of Technology
 
 ## Advisory Board
 
