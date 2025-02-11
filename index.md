@@ -45,7 +45,7 @@ All works that relate to collision-free path planning or navigation for multiple
 ## Format of Workshop
 
 The workshop is a One-Day workshop including:
-- Invited talks
+- Invited talk
 - Paper presentations and Q&As
 - Community discussion
 - Industry panel session
@@ -103,7 +103,7 @@ Please note that AAAI requires all presentations to be delivered in person and v
 |------------|---------------------------------|--------------------|
 | All Day Poster Board Usage | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
 
-## Invited Speaker
+## Invited Talk
 
 Recent Advances in MAPF: Constrained Planning, Temporal Logic, and LLM-Assisted Planning, by [Chuchu Fan](https://chuchu.mit.edu/) (MIT)
 
