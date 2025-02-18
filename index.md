@@ -93,15 +93,11 @@ Please note that AAAI requires all presentations to be delivered in person and v
 |  | Generalized Multi-Agent Multi-Objective Ergodic Search | Bhaskar Vundurthy, Geordan Gutow, Akshaya Kesarimangalam Srinivasan, Albert Xu, Burhanuddin Shirose, Howie Choset |
 |  | Toward Multi-Agent Moving Target Traveling Salesman Problems | Anoop Bhat, Geordan Gutow, Bhaskar Vundurthy, Zhongqiang Ren, Sivakumar Rathinam, Howie Choset |
 |  | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
-| 16:40 | __Community Discussion__ | |
-| 16:50 | __Poster Session with Snacks and Drinks (60 mins)__ | |
-| 17:50 | __Closing__ | |
+|  | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
+| 16:50 | __Community Discussion__ | |
+| 17:00 | __Poster Session with Snacks and Drinks (60 mins)__ | |
+| 18:00 | __Closing__ | |
 
-### Poster Only Presentation
-
-| | Activities and Presentation Topic | Authors/Presenters |
-|------------|---------------------------------|--------------------|
-| All Day Poster Board Usage | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
 
 ## Invited Talk
 
@@ -112,12 +108,27 @@ Recent Advances in MAPF: Constrained Planning, Temporal Logic, and LLM-Assisted 
 __Abstract:__
 In this talk, we explore recent advances from my group that tackle complex planning challenges in multi-robot systems. First, we present a hierarchical framework for solving the Constrained Multiple Depot Traveling Salesman Problem (CMDTSP), efficiently incorporating real-world constraints such as battery limits and inter-agent conflicts to improve solution quality and computational efficiency. Next, we discuss a novel approach to multi-agent motion planning under complex temporal constraints using signal temporal logic (STL), where timed waypoints enable task allocation and collision-free motion planning for nonlinear and nonholonomic agents. Finally, we introduce AutoTAMP, a method that leverages large language models (LLMs) as translators and checkers to bridge natural language task descriptions with task-and-motion planning, enabling robots to jointly reason about tasks and motion under intricate environmental and temporal constraints.
 
-__Bio:__ Dr. Chuchu Fan is a pre-tenure associate professor at AeroAstro and LIDS at MIT. Before that, she was a postdoc researcher at Caltech and got her Ph.D. from ECE at the University of Illinois at Urbana-Champaign. Her research group, Realm at MIT, works on using rigorous mathematics, including formal methods, machine learning, and control theory, for the design, analysis, and verification of safe autonomous systems. Chuchu is the recipient of an NSF CAREER Award, an AFOSR Young Investigator Program (YIP) Award, an ONR Young Investigator Program (YIP) Award, and the 2020 ACM Doctoral Dissertation Award.
+__Bio:__ 
+Dr. Chuchu Fan is a pre-tenure associate professor at AeroAstro and LIDS at MIT. Before that, she was a postdoc researcher at Caltech and got her Ph.D. from ECE at the University of Illinois at Urbana-Champaign. Her research group, Realm at MIT, works on using rigorous mathematics, including formal methods, machine learning, and control theory, for the design, analysis, and verification of safe autonomous systems. Chuchu is the recipient of an NSF CAREER Award, an AFOSR Young Investigator Program (YIP) Award, an ONR Young Investigator Program (YIP) Award, and the 2020 ACM Doctoral Dissertation Award.
 
 
 ## Industry Panel
 
-We've confirmed the participation from Amazon Robotics and Symbotic – both are leading companies in robotics and warehouse automation. We're also reaching out to other companies who are applying automation in diverse and innovative ways to further enrich the discussions.
+From Click to Delivery: Challenges and Opportunities in Multi-Agent Path Finding at Amazon, by [Federico Pecora](https://www.amazon.science/author/federico-pecora) (Amazon Robotics)
+
+<img src="./images/fede-pic.jpeg" width="200"/>
+
+__Abstract:__
+Amazon tackles the problem of coordinating hundreds of thousands of robots to go from a website click to a delivery at your door. We leverage problem, heuristic search, and ML to solve this huge optimization problem. In this talk I will provide an overview of the underlying motion, allocation, perception, and manipulation sub-problems, and discuss some of the challenges and opportunities their integration poses for research in MAPF.
+
+__Bio:__
+Federico Pecora leads the Movement Science team at Amazon Robotics. His team studies algorithms for efficient motion planning and coordination, with the aim of improving the efficiency the world’s largest fleet of mobile robots. He leads Amazon Robotics’ effort to develop a Foundation Model for structured field mobile robots. Prior to joining Amazon, Federico was head of the Multi-Robot Planning and Control Lab at Örebro University, Sweden, where he was also professor and director of the Computer Science Engineering program.
+
+---
+
+_Information on the other panellists will be available soon._
+
+<!-- We've confirmed the participation from Amazon Robotics and Symbotic – both are leading companies in robotics and warehouse automation. We're also reaching out to other companies who are applying automation in diverse and innovative ways to further enrich the discussions. -->
 
 
 ## Submission Requirements (Closed)
