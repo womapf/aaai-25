@@ -95,9 +95,10 @@ Please note that AAAI requires all presentations to be delivered in person and v
 | 16:45 | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
 |  | Measure Preserving Flows for Ergodic Search in Convoluted Environments | Albert Xu, Bhaskar Vundurthy, Geordan Gutow, Ian Abraham, Jeff Schneider, Howie Choset |
 |  | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
-| 17:10 | __Community Discussion__ | |
-| 17:20 | __Poster Session with Snacks and Drinks (60 mins)__ | |
-| 18:20 | __Closing__ | |
+|  | Windowed MAPF with Completeness Guarantees | Rishi Veerapaneni, Muhammad Suhail Saleem, Jiaoyang Li, Maxim Likhachev |
+| 17:20 | __Community Discussion__ | |
+| 17:30 | __Poster Session with Snacks and Drinks (60 mins)__ | |
+| 18:30 | __Closing__ | |
 
 
 ## Invited Talk
