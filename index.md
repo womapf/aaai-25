@@ -84,8 +84,8 @@ Please note that AAAI requires all presentations to be delivered in person and v
 |  | Multi-Agent Path Finding for Schedule Constrained Automation | Kareem Eissa, Rayal Prasad, Ankur Kapoor |
 |  | A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps | Cheng Qian, Yulun Zhang, Varun Bhatt, Matthew Fontaine, Stefanos Nikolaidis, Jiaoyang Li |
 | 14:00 | __Break (15 mins)__ | |
-| 14:15 | __Industry Panel Presentations (35 mins)__ | |
-| 14:55 | __Industry Panel Discussion (5 mins prep + 35 mins)__ | |
+| 14:15 | __Industry Panel Presentations (40 mins)__ | |
+| 14:55 | __Industry Panel Discussion (5 mins prep + 40 mins)__ | |
 | 15:40 | __Tea Break (20 mins)__ | |
 | 16:00 | 100-Mouse System: a Swarm Robotics Platform and its Intuitive State Management User Interface | Ryusei Matsumoto, Shota Yamamoto, Yoko Sasaki, Keisuke Okumura |
 |  | COLREG-CBS: COLREGs-Compliant Search-based Path Planning for Autonomous Surface Vehicles | Kumar Jaiswal, Rahul Kulkarni, Saifullah Khan, Shwitaan Iyer, Sujit P. Baliyarasimhuni |
