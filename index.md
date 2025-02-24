@@ -73,30 +73,31 @@ Please note that AAAI requires all presentations to be delivered in person and v
 |  | CBS with Continuous-Time Revisit | Andy Li, Zhe Chen, Daniel Harabor |
 |  | Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search | Jingtian Yan, Jiaoyang Li |
 |  | How Constraints Define Control for Multi-Agent Navigation Robots | Boyang Zhang |
-|  | Measure Preserving Flows for Ergodic Search in Convoluted Environments | Albert Xu, Bhaskar Vundurthy, Geordan Gutow, Ian Abraham, Jeff Schneider, Howie Choset |
 |  | Hierarchical Large Scale Multirobot Path (Re)Planning | Lishuo Pan, Kevin Hsu, Nora Ayanian |
-| 12:10 | __Poster Session with Lunch in Workshop (80 mins)__ | |
+| 12:00 | __Poster Session with Lunch in Workshop (80 mins)__ | |
 ||
 || Presentations above are assigned to the morning poster session / below to the afternoon |
 ||
-| 13:30 | Deep Reinforcement Learning based Truck Dispatcher for Open-pit Mines | Vaibhav Mukundan, Apurva Narayan |
+| 13:20 | Deep Reinforcement Learning based Truck Dispatcher for Open-pit Mines | Vaibhav Mukundan, Apurva Narayan |
 |  | Multi-Robot Motion Planning with Diffusion Models | Yorai Shaoul, Itamar Mishani, Shivam Vats, Jiaoyang Li, Maxim Likhachev |
 |  | Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models | Jinhao Liang, Jacob Christopher, Sven Koenig, Ferdinando Fioretto |
 |  | Multi-Agent Path Finding for Schedule Constrained Automation | Kareem Eissa, Rayal Prasad, Ankur Kapoor |
 |  | A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps | Cheng Qian, Yulun Zhang, Varun Bhatt, Matthew Fontaine, Stefanos Nikolaidis, Jiaoyang Li |
-| 14:10 | __Break (15 mins)__ | |
-| 14:25 | __Industry Panel Presentations (35 mins)__ | |
-| 16:00 | __Industry Panel Discussion (5 mins prep + 35 mins)__ | |
+| 14:00 | __Break (15 mins)__ | |
+| 14:15 | __Industry Panel Presentations (35 mins)__ | |
+| 14:55 | __Industry Panel Discussion (5 mins prep + 35 mins)__ | |
 | 15:40 | __Tea Break (20 mins)__ | |
 | 16:00 | 100-Mouse System: a Swarm Robotics Platform and its Intuitive State Management User Interface | Ryusei Matsumoto, Shota Yamamoto, Yoko Sasaki, Keisuke Okumura |
 |  | COLREG-CBS: COLREGs-Compliant Search-based Path Planning for Autonomous Surface Vehicles | Kumar Jaiswal, Rahul Kulkarni, Saifullah Khan, Shwitaan Iyer, Sujit P. Baliyarasimhuni |
 |  | Generalized Multi-Agent Multi-Objective Ergodic Search | Bhaskar Vundurthy, Geordan Gutow, Akshaya Kesarimangalam Srinivasan, Albert Xu, Burhanuddin Shirose, Howie Choset |
 |  | Toward Multi-Agent Moving Target Traveling Salesman Problems | Anoop Bhat, Geordan Gutow, Bhaskar Vundurthy, Zhongqiang Ren, Sivakumar Rathinam, Howie Choset |
-|  | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
+| 16:35 | __Short Break (10 mins)__
+| 16:45 | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
+|  | Measure Preserving Flows for Ergodic Search in Convoluted Environments | Albert Xu, Bhaskar Vundurthy, Geordan Gutow, Ian Abraham, Jeff Schneider, Howie Choset |
 |  | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
-| 16:50 | __Community Discussion__ | |
-| 17:00 | __Poster Session with Snacks and Drinks (60 mins)__ | |
-| 18:00 | __Closing__ | |
+| 17:10 | __Community Discussion__ | |
+| 17:20 | __Poster Session with Snacks and Drinks (60 mins)__ | |
+| 18:20 | __Closing__ | |
 
 
 ## Invited Talk
@@ -108,7 +109,7 @@ Recent Advances in MAPF: Constrained Planning, Temporal Logic, and LLM-Assisted 
 __Abstract:__
 In this talk, we explore recent advances from my group that tackle complex planning challenges in multi-robot systems. First, we present a hierarchical framework for solving the Constrained Multiple Depot Traveling Salesman Problem (CMDTSP), efficiently incorporating real-world constraints such as battery limits and inter-agent conflicts to improve solution quality and computational efficiency. Next, we discuss a novel approach to multi-agent motion planning under complex temporal constraints using signal temporal logic (STL), where timed waypoints enable task allocation and collision-free motion planning for nonlinear and nonholonomic agents. Finally, we introduce AutoTAMP, a method that leverages large language models (LLMs) as translators and checkers to bridge natural language task descriptions with task-and-motion planning, enabling robots to jointly reason about tasks and motion under intricate environmental and temporal constraints.
 
-__Bio:__ 
+__Bio:__
 Dr. Chuchu Fan is a pre-tenure associate professor at AeroAstro and LIDS at MIT. Before that, she was a postdoc researcher at Caltech and got her Ph.D. from ECE at the University of Illinois at Urbana-Champaign. Her research group, Realm at MIT, works on using rigorous mathematics, including formal methods, machine learning, and control theory, for the design, analysis, and verification of safe autonomous systems. Chuchu is the recipient of an NSF CAREER Award, an AFOSR Young Investigator Program (YIP) Award, an ONR Young Investigator Program (YIP) Award, and the 2020 ACM Doctoral Dissertation Award.
 
 
@@ -123,6 +124,20 @@ Amazon tackles the problem of coordinating hundreds of thousands of robots to go
 
 __Bio:__
 Federico Pecora leads the Movement Science team at Amazon Robotics. His team studies algorithms for efficient motion planning and coordination, with the aim of improving the efficiency the world’s largest fleet of mobile robots. He leads Amazon Robotics’ effort to develop a Foundation Model for structured field mobile robots. Prior to joining Amazon, Federico was head of the Multi-Robot Planning and Control Lab at Örebro University, Sweden, where he was also professor and director of the Computer Science Engineering program.
+
+---
+
+Planning Large-Scale Bot Fleets in High-Density Warehouses, by [Jingkai Chen](https://jkchengh.github.io/) (Symbotic)
+
+<img src="./images/jingkai.jpg" width="200"/>
+
+__Abstract:__
+Planning a large fleet of high-speed robots in Symbotic's high-density warehouses presents unique challenges for the multi-bot planning and execution system. In this talk, I will provide an overview of these challenges and introduce how Symbotic's planning-execution system builds upon state-of-the-art multi-robot approaches to achieve robustness, high performance, and scalability.
+
+__Bio:__
+Jingkai Chen is a Principal Robotics Engineer at Symbotic, where he leads the group focused on multi-robot planning and execution. He spearheaded the research and development of the latest generation of Symbotic’s multi-bot routing and execution system, significantly improving its robustness, scalability, and performance. This system is deployed across a dozen warehouse sites, coordinating thousands of robots at scale.
+
+Jingkai holds an S.M. and Ph.D. in autonomy from MIT’s Department of Aeronautics and Astronautics. His research interests include robotics, AI planning, and multi-agent systems, with applications in interconnected robotic systems for manufacturing, logistics, and field operations.
 
 ---
 
