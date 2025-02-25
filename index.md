@@ -59,42 +59,42 @@ Please note that AAAI requires all presentations to be delivered in person and v
 | Time (EST) | Activities and Presentation Topic | Authors/Presenters |
 |------------|---------------------------------|--------------------|
 | 08:55 | __Opening Remarks__ | |
-| 09:00 | Enhancing Lifelong Multi-Agent Path-finding by Using Artificial Potential Fields | Arseni Pertzovskiy, Roni Stern, Roie Zivan, Ariel Felner |
-|  | Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding | Hongzhi Zang, Yulun Zhang, He Jiang, Zhe Chen, Daniel Harabor, Peter Stuckey, Jiaoyang Li |
-|  | Early Results with LF: Online Multi-Robot Path Planning meets Optimal Trajectory Control | Ajay Shankar, Keisuke Okumura, Amanda Prorok |
-|  | Concurrent Planning and Execution in Lifelong Multi-Agent Path Finding with Delay Probabilities | Yue Zhang, Zhe Chen, Daniel Harabor, Pierre Le Bodic, Peter Stuckey |
-|  | Optimized Solving Anonymous and Combinatorial Multi-Agent Path Finding Problems in Polynomial Time | Stefan Edelkamp |
+| 09:00 | Enhancing Lifelong Multi-Agent Path-finding by Using Artificial Potential Fields [[PDF]](./PDF/Submission_9.pdf) | Arseni Pertzovskiy, Roni Stern, Roie Zivan, Ariel Felner |
+|  | Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding [[PDF]](./pdf/Submission_26.pdf) | Hongzhi Zang, Yulun Zhang, He Jiang, Zhe Chen, Daniel Harabor, Peter Stuckey, Jiaoyang Li |
+|  | Early Results with LF: Online Multi-Robot Path Planning meets Optimal Trajectory Control [[PDF]](./PDF/Submission_21.pdf) | Ajay Shankar, Keisuke Okumura, Amanda Prorok |
+|  | Concurrent Planning and Execution in Lifelong Multi-Agent Path Finding with Delay Probabilities [[PDF]](./PDF/Submission_14.pdf) | Yue Zhang, Zhe Chen, Daniel Harabor, Pierre Le Bodic, Peter Stuckey |
+|  | Optimized Solving Anonymous and Combinatorial Multi-Agent Path Finding Problems in Polynomial Time [[PDF]](./PDF/Submission_15.pdf) | Stefan Edelkamp |
 | 09:40 | __Break (15 mins)__ | |
 | 09:55 | __Invited Talk (45 minutes)__ | Chuchu Fan |
 | 10:40 | __Tea Break (20 mins)__ | |
-| 11:00 | On the Completeness of Conflict-Based Search: Temporally-Relative Duplicate Pruning | Thayne T. Walker, Nathan R. Sturtevant |
-|  | Goal Distribution in Conflict-Based Search for Multi-Agent Pathfinding and its Implications to Monte-Carlo Sampling | Colton Simpson, Sumedh Pendurkar, Guni Sharon |
-|  | Minimizing Makespan with Conflict-Based Search for Optimal Multi-Agent Path Finding | Amir Maliah, Dor Atzmon, Ariel Felner |
-|  | CBS with Continuous-Time Revisit | Andy Li, Zhe Chen, Daniel Harabor |
-|  | Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search | Jingtian Yan, Jiaoyang Li |
-|  | How Constraints Define Control for Multi-Agent Navigation Robots | Boyang Zhang |
-|  | Hierarchical Large Scale Multirobot Path (Re)Planning | Lishuo Pan, Kevin Hsu, Nora Ayanian |
+| 11:00 | On the Completeness of Conflict-Based Search: Temporally-Relative Duplicate Pruning [[PDF]](./PDF/Submission_44.pdf) | Thayne T. Walker, Nathan R. Sturtevant |
+|  | Goal Distribution in Conflict-Based Search for Multi-Agent Pathfinding and its Implications to Monte-Carlo Sampling [[PDF]](./pdf/Submission_37.pdf) | Colton Simpson, Sumedh Pendurkar, Guni Sharon |
+|  | Minimizing Makespan with Conflict-Based Search for Optimal Multi-Agent Path Finding [[PDF]](./pdf/Submission_28.pdf) | Amir Maliah, Dor Atzmon, Ariel Felner |
+|  | CBS with Continuous-Time Revisit [[PDF]](./PDF/Submission_40.pdf) | Andy Li, Zhe Chen, Daniel Harabor |
+|  | Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search [[PDF]](./PDF/Submission_30.pdf) | Jingtian Yan, Jiaoyang Li |
+|  | How Constraints Define Control for Multi-Agent Navigation Robots [[PDF]](./pdf/Submission_39.pdf) | Boyang Zhang |
+|  | Hierarchical Large Scale Multirobot Path (Re)Planning [[PDF]](./pdf/Submission_32.pdf) | Lishuo Pan, Kevin Hsu, Nora Ayanian |
 | 12:00 | __Poster Session with Lunch in Workshop (80 mins)__ | |
 ||
 || Presentations above are assigned to the morning poster session / below to the afternoon |
 ||
-| 13:20 | Deep Reinforcement Learning based Truck Dispatcher for Open-pit Mines | Vaibhav Mukundan, Apurva Narayan |
-|  | Multi-Robot Motion Planning with Diffusion Models | Yorai Shaoul, Itamar Mishani, Shivam Vats, Jiaoyang Li, Maxim Likhachev |
-|  | Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models | Jinhao Liang, Jacob Christopher, Sven Koenig, Ferdinando Fioretto |
-|  | Multi-Agent Path Finding for Schedule Constrained Automation | Kareem Eissa, Rayal Prasad, Ankur Kapoor |
-|  | A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps | Cheng Qian, Yulun Zhang, Varun Bhatt, Matthew Fontaine, Stefanos Nikolaidis, Jiaoyang Li |
+| 13:20 | Deep Reinforcement Learning based Truck Dispatcher for Open-pit Mines [[PDF]](./pdf/Submission_23.pdf) | Vaibhav Mukundan, Apurva Narayan |
+|  | Multi-Robot Motion Planning with Diffusion Models [[PDF]](./PDF/Submission_12.pdf) | Yorai Shaoul, Itamar Mishani, Shivam Vats, Jiaoyang Li, Maxim Likhachev |
+|  | Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models [[PDF]](./pdf/Submission_38.pdf) | Jinhao Liang, Jacob Christopher, Sven Koenig, Ferdinando Fioretto |
+|  | Multi-Agent Path Finding for Schedule Constrained Automation [[PDF]](./pdf/Submiision_2.pdf) | Kareem Eissa, Rayal Prasad, Ankur Kapoor |
+|  | A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps [[PDF]](./pdf/Submission_35.pdf) | Cheng Qian, Yulun Zhang, Varun Bhatt, Matthew Fontaine, Stefanos Nikolaidis, Jiaoyang Li |
 | 14:00 | __Break (15 mins)__ | |
 | 14:15 | __Industry Panel Presentations (40 mins)__ | |
 | 14:55 | __Industry Panel Discussion (5 mins prep + 40 mins)__ | |
 | 15:40 | __Tea Break (20 mins)__ | |
-| 16:00 | 100-Mouse System: a Swarm Robotics Platform and its Intuitive State Management User Interface | Ryusei Matsumoto, Shota Yamamoto, Yoko Sasaki, Keisuke Okumura |
-|  | COLREG-CBS: COLREGs-Compliant Search-based Path Planning for Autonomous Surface Vehicles | Kumar Jaiswal, Rahul Kulkarni, Saifullah Khan, Shwitaan Iyer, Sujit P. Baliyarasimhuni |
-|  | Generalized Multi-Agent Multi-Objective Ergodic Search | Bhaskar Vundurthy, Geordan Gutow, Akshaya Kesarimangalam Srinivasan, Albert Xu, Burhanuddin Shirose, Howie Choset |
-|  | Toward Multi-Agent Moving Target Traveling Salesman Problems | Anoop Bhat, Geordan Gutow, Bhaskar Vundurthy, Zhongqiang Ren, Sivakumar Rathinam, Howie Choset |
+| 16:00 | 100-Mouse System: a Swarm Robotics Platform and its Intuitive State Management User Interface [[PDF]](/pdf/Submission_24.pdf) | Ryusei Matsumoto, Shota Yamamoto, Yoko Sasaki, Keisuke Okumura |
+|  | COLREG-CBS: COLREGs-Compliant Search-based Path Planning for Autonomous Surface Vehicles [[PDF]](/pdf/Submission_31.pdf) | Kumar Jaiswal, Rahul Kulkarni, Saifullah Khan, Shwitaan Iyer, Sujit P. Baliyarasimhuni |
+|  | Generalized Multi-Agent Multi-Objective Ergodic Search [[PDF]](./pdf/Submission_42.pdf) | Bhaskar Vundurthy, Geordan Gutow, Akshaya Kesarimangalam Srinivasan, Albert Xu, Burhanuddin Shirose, Howie Choset |
+|  | Toward Multi-Agent Moving Target Traveling Salesman Problems [[PDF]](./pdf/Submission_36.pdf) | Anoop Bhat, Geordan Gutow, Bhaskar Vundurthy, Zhongqiang Ren, Sivakumar Rathinam, Howie Choset |
 | 16:35 | __Short Break (10 mins)__
-| 16:45 | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
-|  | Measure Preserving Flows for Ergodic Search in Convoluted Environments | Albert Xu, Bhaskar Vundurthy, Geordan Gutow, Ian Abraham, Jeff Schneider, Howie Choset |
-|  | Lifelong MAPF and Task Assignment Considering Workers in Warehouses | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
+| 16:45 | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty [[PDF]](./pdf/Submission_11.pdf) | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
+|  | Measure Preserving Flows for Ergodic Search in Convoluted Environments [[PDF]](./pdf/Submission_41.pdf) | Albert Xu, Bhaskar Vundurthy, Geordan Gutow, Ian Abraham, Jeff Schneider, Howie Choset |
+|  | Lifelong MAPF and Task Assignment Considering Workers in Warehouses [[PDF]](./pdf/Submission_22.pdf) | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
 |  | Windowed MAPF with Completeness Guarantees | Rishi Veerapaneni, Muhammad Suhail Saleem, Jiaoyang Li, Maxim Likhachev |
 | 17:20 | __Community Discussion__ | |
 | 17:30 | __Poster Session with Snacks and Drinks (60 mins)__ | |
