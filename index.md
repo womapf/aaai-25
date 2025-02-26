@@ -8,6 +8,7 @@ WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/) and [So
 
 ## News
 
+- Feb. 25, 2025. Workshop papers are now available.
 - Feb. 11, 2025. Update invited talk info.
 - Feb. 4, 2025. Workshop schedule is out.
 - Dec. 27, 2024. Call for the WoMAPF student travel grants is out.
@@ -95,7 +96,7 @@ Please note that AAAI requires all presentations to be delivered in person and v
 | 16:45 | Generating Safe Policies for Multi-Agent Path Finding with Temporal Uncertainty [[PDF]](./pdf/Submission_11.pdf) | Jiří Švancara, David Zahradka, Mrinalini Subramanian, Roman Barták, Miroslav Kulich |
 |  | Measure Preserving Flows for Ergodic Search in Convoluted Environments [[PDF]](./pdf/Submission_41.pdf) | Albert Xu, Bhaskar Vundurthy, Geordan Gutow, Ian Abraham, Jeff Schneider, Howie Choset |
 |  | Lifelong MAPF and Task Assignment Considering Workers in Warehouses [[PDF]](./pdf/Submission_22.pdf) | Naoki Mizumoto, Katsuhide Fujita, Yoshihiro Ueda, Takayoshi Mori |
-|  | Windowed MAPF with Completeness Guarantees | Rishi Veerapaneni, Muhammad Suhail Saleem, Jiaoyang Li, Maxim Likhachev |
+|  | Windowed MAPF with Completeness Guarantees [[PDF]](./pdf/Submission_45.pdf) | Rishi Veerapaneni, Muhammad Suhail Saleem, Jiaoyang Li, Maxim Likhachev |
 | 17:20 | __Community Discussion__ | |
 | 17:30 | __Poster Session with Snacks and Drinks (60 mins)__ | |
 | 18:30 | __Closing__ | |
