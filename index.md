@@ -104,7 +104,7 @@ Please note that AAAI requires all presentations to be delivered in person and v
 
 ## Invited Talk
 
-Recent Advances in MAPF: Constrained Planning, Temporal Logic, and LLM-Assisted Planning, by [Chuchu Fan](https://chuchu.mit.edu/) (MIT)
+__Recent Advances in MAPF: Constrained Planning, Temporal Logic, and LLM-Assisted Planning, by [Chuchu Fan](https://chuchu.mit.edu/) (MIT)__
 
 <img src="./images/chuchu.jpg" width="200"/>
 
@@ -117,7 +117,7 @@ Dr. Chuchu Fan is a pre-tenure associate professor at AeroAstro and LIDS at MIT.
 
 ## Industry Panel
 
-From Click to Delivery: Challenges and Opportunities in Multi-Agent Path Finding at Amazon, by [Federico Pecora](https://www.amazon.science/author/federico-pecora) (Amazon Robotics)
+__From Click to Delivery: Challenges and Opportunities in Multi-Agent Path Finding at Amazon, by [Federico Pecora](https://www.amazon.science/author/federico-pecora) (Amazon Robotics)__
 
 <img src="./images/fede-pic.jpeg" width="200"/>
 
@@ -129,7 +129,7 @@ Federico Pecora leads the Movement Science team at Amazon Robotics. His team stu
 
 ---
 
-Planning Large-Scale Bot Fleets in High-Density Warehouses, by [Jingkai Chen](https://jkchengh.github.io/) (Symbotic)
+__Planning Large-Scale Bot Fleets in High-Density Warehouses, by [Jingkai Chen](https://jkchengh.github.io/) (Symbotic)__
 
 <img src="./images/jingkai.jpg" width="200"/>
 
@@ -140,6 +140,22 @@ __Bio:__
 Jingkai Chen is a Principal Robotics Engineer at Symbotic, where he leads the group focused on multi-robot planning and execution. He spearheaded the research and development of the latest generation of Symbotic’s multi-bot routing and execution system, significantly improving its robustness, scalability, and performance. This system is deployed across a dozen warehouse sites, coordinating thousands of robots at scale.
 
 Jingkai holds an S.M. and Ph.D. in autonomy from MIT’s Department of Aeronautics and Astronautics. His research interests include robotics, AI planning, and multi-agent systems, with applications in interconnected robotic systems for manufacturing, logistics, and field operations.
+
+---
+
+__Intelligent Automation for Laboratory Diagnostics, by Rayal Prasad (Siemens Healthineers)__
+
+__Abstract:__
+The demand for fast and accurate in-vitro diagnostics is ever-increasing. Laboratory automation has provided a means to efficiently scale diagnostics operations, leading to complex automation systems that rely on hundreds of various components interacting with each other.
+
+What starts as a tube of blood goes through a unique set of operations on these systems that are specific to patient requirements – this calls for intelligent flexible automation that can maximize system throughput. However, safety and reliability are also key, as errors could mean redrawing a pediatric sample or delaying a critical medical decision in an emergency room.
+
+Everyone in the diagnostics business understands that improving speed and reliability doesn’t just help improve the profits of labs; it helps save lives. In this talk, Rayal Prasad will briefly introduce in-vitro diagnostics and the intricate laboratory automation systems that touch millions of patients’ lives every year. Rayal will detail how advancements in MAPF can improve these operations and describe some of the adjacent open challenges in this space.
+
+__Bio:__
+Rayal Prasad is a Staff Research Scientist with the Digital Technology and Innovation group at Siemens Healthineers, a global healthcare company that specializes in medical devices and technology. With his focus on applying intelligent robotics to automate and improve healthcare, he has made significant contributions to the company’s laboratory diagnostics portfolio.
+
+At Siemens, Rayal has worked on various applications of AI for in-vitro diagnostics and is an experienced innovator with over 30 patents to his name. Currently, he is working on enabling labs to work more efficiently through AI-driven automation of highly complex diagnostics systems. This is a critical industry with an ever-increasing demand for testing, where even small improvements lead to large-scale patient impact.
 
 ---
 
