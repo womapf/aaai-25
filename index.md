@@ -8,6 +8,7 @@ WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/) and [So
 
 ## News
 
+- Feb. 27, 2025. Update industry panellists
 - Feb. 25, 2025. Workshop papers are now available.
 - Feb. 11, 2025. Update invited talk info.
 - Feb. 4, 2025. Workshop schedule is out.
@@ -145,6 +146,8 @@ Jingkai holds an S.M. and Ph.D. in autonomy from MIT’s Department of Aeronauti
 
 __Intelligent Automation for Laboratory Diagnostics, by Rayal Prasad (Siemens Healthineers)__
 
+<img src="./images/Rayal_Headshot.jpg" width="200"/>
+
 __Abstract:__
 The demand for fast and accurate in-vitro diagnostics is ever-increasing. Laboratory automation has provided a means to efficiently scale diagnostics operations, leading to complex automation systems that rely on hundreds of various components interacting with each other.
 
@@ -157,9 +160,8 @@ Rayal Prasad is a Staff Research Scientist with the Digital Technology and Inno
 
 At Siemens, Rayal has worked on various applications of AI for in-vitro diagnostics and is an experienced innovator with over 30 patents to his name. Currently, he is working on enabling labs to work more efficiently through AI-driven automation of highly complex diagnostics systems. This is a critical industry with an ever-increasing demand for testing, where even small improvements lead to large-scale patient impact.
 
----
 
-_Information on the other panellists will be available soon._
+<!-- _Information on the other panellists will be available soon._ -->
 
 <!-- We've confirmed the participation from Amazon Robotics and Symbotic – both are leading companies in robotics and warehouse automation. We're also reaching out to other companies who are applying automation in diverse and innovative ways to further enrich the discussions. -->
 
