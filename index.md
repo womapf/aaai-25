@@ -8,6 +8,7 @@ WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/) and [So
 
 ## News
 
+- Mar. 3, 2025. __You can post questions via [slido](https://app.sli.do/event/uxvrLqZFM1oqSrycfh8gMs/live/questions)__.
 - Feb. 27, 2025. Update industry panellists
 - Feb. 25, 2025. Workshop papers are now available.
 - Feb. 11, 2025. Update invited talk info.
@@ -117,6 +118,10 @@ Dr. Chuchu Fan is a pre-tenure associate professor at AeroAstro and LIDS at MIT.
 
 
 ## Industry Panel
+
+__You can post questions via [slido](https://app.sli.do/event/uxvrLqZFM1oqSrycfh8gMs/live/questions)__
+
+---
 
 __From Click to Delivery: Challenges and Opportunities in Multi-Agent Path Finding at Amazon, by [Federico Pecora](https://www.amazon.science/author/federico-pecora) (Amazon Robotics)__
 
