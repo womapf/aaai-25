@@ -2,13 +2,22 @@
 layout: default
 ---
 
+The workshop was successful.
+Many thanks to all involved in WoMAPF25!
+
+__We welcome any feedback from [here](https://forms.gle/X5sPVxkmYuMu8wQo7).__
+
+![](./images/group-photo.jpg)
+
+---
+
 Multi-Agent Path Finding (MAPF) involves computing collision-free paths for multiple agents from their starting locations to given destinations in a known environment. This problem finds diverse applications, from robot coordination to traffic management. Researchers in artificial intelligence, robotics, and theoretical computer science have been actively exploring various MAPF problem variants and solution approaches. This workshop aims to bring these researchers together to present their research, discuss future research directions, and cross-fertilize the different communities.
 
 WoMAPF 2025 is kindly supported by [Symbotic](https://www.symbotic.com/) and [SoCS](https://www.search-conference.org/).
 
 ## News
 
-- Mar. 3, 2025. __You can post questions via [slido](https://app.sli.do/event/uxvrLqZFM1oqSrycfh8gMs/live/questions)__.
+- Mar. 3, 2025. You can post questions for the industory panel via [slido](https://app.sli.do/event/uxvrLqZFM1oqSrycfh8gMs/live/questions).
 - Feb. 27, 2025. Update industry panellists
 - Feb. 25, 2025. Workshop papers are now available.
 - Feb. 11, 2025. Update invited talk info.
