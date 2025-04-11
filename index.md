@@ -84,7 +84,7 @@ Please note that AAAI requires all presentations to be delivered in person and v
 |  | Minimizing Makespan with Conflict-Based Search for Optimal Multi-Agent Path Finding [[PDF]](./pdf/Submission_28.pdf) | Amir Maliah, Dor Atzmon, Ariel Felner |
 |  | CBS with Continuous-Time Revisit [[PDF]](./pdf/Submission_40.pdf) | Andy Li, Zhe Chen, Daniel Harabor |
 |  | Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search [[PDF]](./pdf/Submission_30.pdf) | Jingtian Yan, Jiaoyang Li |
-|  | How Constraints Define Control for Multi-Agent Navigation Robots [[PDF]](./pdf/Submission_39.pdf) | Boyang Zhang |
+|  | How Constraints Define Control for Multi-Agent Navigation Robots | Boyang Zhang |
 |  | Hierarchical Large Scale Multirobot Path (Re)Planning [[PDF]](./pdf/Submission_32.pdf) | Lishuo Pan, Kevin Hsu, Nora Ayanian |
 | 12:00 | __Poster Session with Lunch in Workshop (80 mins)__ | |
 ||
